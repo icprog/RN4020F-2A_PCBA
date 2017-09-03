@@ -14,8 +14,8 @@ PCBA Reference document, for factory
 
 ## BOM
 | Left align | Right align | Center align |
-|:-----------|------------:|:------------:|
-| This       | This        | This         |
+|:-----------|:------------|:-------------|
+| This       | This        | http://akizukidenshi.com/catalog/g/gP-04661/ |
 | column     | column      | column       |
 | will       | will        | will         |
 | be         | be          | be           |
