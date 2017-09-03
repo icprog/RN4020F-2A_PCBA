@@ -13,14 +13,10 @@ PCBA Reference document, for factory
 
 
 ## BOM
-| Left align | Right align | Center align |
-|:-----------|:------------|:-------------|
-| This       | This        | http://akizukidenshi.com/catalog/g/gP-04661/ |
-| column     | column      | column       |
-| will       | will        | will         |
-| be         | be          | be           |
-| left       | right       | center       |
-| aligned    | aligned     | aligned      |
+| Part       | Value       | QTY  | Package      | Remark/ Link                                 | Description                |
+|:-----------|:------------|:-----|:-------------|:---------------------------------------------|:---------------------------|
+| C1,C4      | 100nF       | 2    | C0603        |                                              | CAPACITOR, European symbol |
+| Z1         | This        |      |              | http://akizukidenshi.com/catalog/g/gP-04661/ | CAPACITOR, European symbol |
 
 # aaa
 
