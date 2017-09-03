@@ -12,6 +12,8 @@ PCBA Reference document, for factory
  * Project Name: RN4020F-2A
  * PCB Version: 2
 
+***
+
 ## BOM
 | Part       | Value           | QTY  | Package      | Remark/ Link                                 | Description                |
 |:-----------|:----------------|:-----|:-------------|:---------------------------------------------|:---------------------------|
@@ -30,9 +32,9 @@ PCBA Reference document, for factory
 
 
 ## image ( test assemble PCB )
-1) J1/J2/J3 pinheader parts, not assemble parts
-2) other parts , assemble parts require ,for factory
- *) old version PCB Layout (ver 1: RN4020F-1D )
+ * 1) J1/J2/J3 pinheader parts, not assemble parts
+ * 2) other parts , assemble parts require ,for factory
+ * *) old version PCB Layout (ver 1: RN4020F-1D )
 
 <img src="https://raw.githubusercontent.com/kuc-arc-f/RN4020F-2A_PCBA/master/img/IMG_20170902_132347-top.jpg" style="max-width : 100%; max-height: 600px;">
 
