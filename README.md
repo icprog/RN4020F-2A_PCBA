@@ -19,7 +19,7 @@ PCBA Reference document, for factory
 | C2,C3      | 22pF            | 2    | C0603        |                                              | CAPACITOR, European symbol |
 | C5         | 4.7uF           | 1    | C1206        | http://akizukidenshi.com/catalog/g/gP-04661/ | CAPACITOR, European symbol |
 | Q1         | 8MHz            | 1    |              | http://akizukidenshi.com/catalog/g/gP-08667/ | CRYSTAL                    |
-| R1,R2,R3   | This            | 3    | R0603        |                                              | RESISTOR, European symbol  |
+| R1,R2,R3   | 10K             | 3    | R0603        |                                              | RESISTOR, European symbol  |
 | RST        |                 | 1    |              | http://akizukidenshi.com/catalog/g/gP-08074/ | Switch button              |
 | T1         | 2SC2712         | 1    | SOT23        | http://akizukidenshi.com/catalog/g/gI-00761/ | NPN TRANSISTOR             |
 | U1         | ATMEGA328P_TQFP | 1    | TQFP32-08    |                                              | MCU                        |
