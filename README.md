@@ -31,6 +31,7 @@ PCBA Reference document, for factory
 | J2         |                 | 1    | 1X08         |                                              | PIN HEADER                 |
 | J3         |                 | 1    | 1X06         |                                              | PIN HEADER                 |
 
+*) related parts : RN4020 /Microchip module: http://akizukidenshi.com/catalog/g/gK-11102/
 
 ## image ( test assemble PCB )
  *  J1/J2/J3 pinheader parts, not assemble parts
