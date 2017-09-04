@@ -11,6 +11,7 @@ PCBA Reference document, for factory
 
  * Project Name: RN4020F-2A
  * PCB Version: 2
+ * schematics file : EAGLE 7.5
 
 ***
 
@@ -37,7 +38,7 @@ PCBA Reference document, for factory
 
  * *) old version PCB Layout (ver 1: RN4020F-1D )
 
-<img src="https://raw.githubusercontent.com/kuc-arc-f/RN4020F-2A_PCBA/master/img/IMG_20170902_132347-top.jpg" style="max-width : 100%; max-height: 600px;">
+<img src="https://raw.githubusercontent.com/kuc-arc-f/RN4020F-2A_PCBA/master/img/IMG_20170902_132347-top2.png" style="max-width : 100%; max-height: 600px;">
 
 
 
